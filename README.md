@@ -26,15 +26,18 @@ A Streamlit-based AI chatbot powered by **LangChain** and **ChatTogether**, desi
 ---
 
 ## 📂 Project Structure
-  ai-chatbot/
-  │
-  ├── chatbot/
-  │ ├── chatbot_function.py # Main logic to generate responses
-  │ └── init.py
-  │
-  ├── pages/ # Optional: Streamlit multi-page support
-  │
-  ├── app.py # Main Streamlit app
-  ├── .env # API key storage (example: api_key=YOUR_KEY)
-  ├── requirements.txt # Project dependencies
-  └── README.md
+```
+ذذ
+ai-chatbot/
+│
+├── chatbot/
+│ ├── chatbot_function.py # Main logic to generate responses
+│ └── init.py
+│
+├── pages/ # Optional: Streamlit multi-page support
+│
+├── app.py # Main Streamlit app
+├── .env # API key storage (example: api_key=YOUR_KEY)
+├── requirements.txt # Project dependencies
+└── README.md
+```

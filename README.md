@@ -38,7 +38,7 @@ ai-chatbot/
 ├── .env # API key storage (example: api_key=YOUR_KEY)
 ├── requirements.txt # Project dependencies
 └── README.md
-ذ
 ```
+ذ
 ذذ
 ذذذ

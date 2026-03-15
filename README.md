@@ -43,7 +43,7 @@ ai-chatbot/
 
 Try the AI Assistant chatbot live here:
 
-[Open Demo]([https://chatbotconversationuselangchain-vnl98lpf7sqdjyyfk6f6xx.streamlit.app/]
+[Open Demo]([https://example.com/demo](https://chatbotconversationuselangchain-vnl98lpf7sqdjyyfk6f6xx.streamlit.app/)
 
 
 

@@ -25,7 +25,7 @@ def get_response(user_query , chat_history):
     llm = ChatTogether(
         model="ServiceNow-AI/Apriel-1.6-15b-Thinker",
         temperature=0.6,
-        api_key=api_key
+        api_key=os.getenv("api_key")
     )
     # =========================================
 

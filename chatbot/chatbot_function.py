@@ -14,7 +14,6 @@ from langchain_together import ChatTogether
 ######### API Key ############
 from dotenv import load_dotenv
 load_dotenv()
-api_key = 'tgp_v1_W8goPI1WbrNXqn8yo2BG7HA6N9tHX2lDJckw5qRPDxo'
 # =========================================
 # =========================================
 #### Build Chatbot Model Use LangChain

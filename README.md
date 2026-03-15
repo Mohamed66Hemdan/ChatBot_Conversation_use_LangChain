@@ -24,10 +24,8 @@ A Streamlit-based AI chatbot powered by **LangChain** and **ChatTogether**, desi
 - **LangChain Core** – AIMessage and HumanMessage handling
 
 ---
-
 ## 📂 Project Structure
 ```
-ذذ
 ai-chatbot/
 │
 ├── chatbot/
@@ -40,6 +38,7 @@ ai-chatbot/
 ├── .env # API key storage (example: api_key=YOUR_KEY)
 ├── requirements.txt # Project dependencies
 └── README.md
+ذ
 ```
 ذذ
 ذذذ
